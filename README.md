@@ -1,6 +1,6 @@
-# Jailbreak Detector
+# Jailbreak Attacks Detection tool for LLM based Applications
 
-Jailbreak Detector is a Python tool designed to identify potentially dangerous or sensitive keywords in text, including those obfuscated using ASCII art. This tool can be particularly useful for content moderation in chat applications, forums, or any text-based communication platform.
+Jailbreak Detector is a Python based tool designed to identify potentially dangerous or sensitive keywords in the input query to LLMs, including those obfuscated using ASCII art. This tool can be particularly useful for content moderation in chat applications, forums, or any text-based communication platform.
 
 ## Features
 
